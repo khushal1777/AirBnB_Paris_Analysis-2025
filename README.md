@@ -87,13 +87,13 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 Here are some key visualizations from the analysis:
 
 * **Growth of Airbnb Listings in Paris**
-  ![Listings Growth](images/listings_growth.png)
+  ![Listings Growth]([images/listings_growth.png](https://github.com/khushal1777/AirBnB_Paris_Analysis-2025/blob/main/listings_growth.png))
 
 * **Average Price by Locality**
-  ![Price by Locality](images/price_locality.png)
+  ![Price by Locality]([images/price_locality.png](https://github.com/khushal1777/AirBnB_Paris_Analysis-2025/blob/main/price_locality.png))
 
 * **Impact of 2017 Regulation on Host Entries**
-  ![Regulation Impact](images/regulation_impact.png)
+  ![Regulation Impact]([images/regulation_impact.png](https://github.com/khushal1777/AirBnB_Paris_Analysis-2025/blob/main/regulation_impact.png))
 
 ---
 
